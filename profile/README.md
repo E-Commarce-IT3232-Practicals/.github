@@ -1,4 +1,4 @@
-# IT3232: E-Commerce Practical and Assignment 🛒💻
+# IT3232: E-Commerce Practical and Assignment 💻
 
 Welcome to the official repository for IT3232: E-Commerce practicals and assignments! This repository is maintained for uploading the daily React practical sessions and assignments provided during lecture hours by the lecturer in charge.
 
